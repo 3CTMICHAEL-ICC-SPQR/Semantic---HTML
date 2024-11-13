@@ -6,7 +6,7 @@ Nim   : 2205101015
 Latihan Praktikum 1 Semantic HTML
 
 ```
-##Analisa kekurangan pada index.html
+Analisa kekurangan pada index.html
 1.Tag <html> dan <body> Tidak Ada – Tag ini wajib agar HTML valid, dan semua elemen wajib ada di dalam <body>.
 2.Tag <head> Tidak Ada – Harusnya ada untuk memasukkan metadata, seperti <meta //charset="UTF-8"> dan <title>.
 3.Kesalahan Penulisan Tag – Ada spasi sebelum <li> pada <li><a //href="#kesimpulan">Kesimpulan</a></li>, dapat menyebabkan kesalahan pada beberapa browser.
